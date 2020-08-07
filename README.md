@@ -1,6 +1,7 @@
 # Almoço da Firma
 ## Projeto de teste para vaga de desenvolvedor front-end na GoMakers
 
+# Link para verificar o projeto em execução: https://almocodafirrrrrrrmaaaa.netlify.app/
 > Esse é um repositório com as regras para criação do projeto para vaga de desenvolvedor front-end no RockFunnels.
 
 <p align="center">
